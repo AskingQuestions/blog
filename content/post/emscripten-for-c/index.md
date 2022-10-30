@@ -2,7 +2,7 @@
 title: Using Emscripten for porting C libraries to the web/serverless
 description: Emscripten is pretty cool for porting C libraries to the web. Here are some notes on how I used it (Mainly written for myself 🙂)
 slug: emscripten-for-c
-date: 2022-03-06 00:00:00+0000
+date: 2022-10-29 00:00:00+0000
 image: emscripten-for-c.png
 categories:
   - Web
